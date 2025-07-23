@@ -1,6 +1,6 @@
 # Hello, I'm Giovanna Oliveira  
 
-💻 **Software Engineering Student | Brazil **  
+💻 **Software Engineering Student | Brazil**  
 
 Welcome to my profile! I’m dedicated to learning and constantly evolving in the tech field, developing front-end and back-end applications to solve real-world problems.  
 
