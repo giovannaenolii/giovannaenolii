@@ -1,12 +1,12 @@
 # Hello, I'm Giovanna Oliveira  
 
-💻 **Software Engineering Student | Aspiring Full Stack Developer** | Brazil | Passionate about Full Stack Development  
+💻 **Software Engineering Student | Aspiring Full Stack Developer | Brazil | Passionate about Full Stack Development**  
 
 Welcome to my profile! I’m dedicated to learning and constantly evolving in the tech field, developing front-end and back-end applications to solve real-world problems.  
 
 ---
 
-## About Me  
+## 📌About Me  
 - Software Engineering student (1st year)  
 - Currently learning **HTML, CSS, JavaScript, Java and SQL**  
 - Goal: Become a **Full Stack** developer  
@@ -37,8 +37,7 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 ## How to reach me  
 
 📧 **Email:** giovannahenriquehg@gmail.com 
-💼 **LinkedIn:** www.linkedin.com/in/giovanna-oliveira-383897285
-🌐 **Portfolio:**   
+💼 **LinkedIn:** www.linkedin.com/in/giovanna-oliveira-383897285  
 
 ---
 
