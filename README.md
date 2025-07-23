@@ -1,6 +1,6 @@
 # Hello, I'm Giovanna Oliveira  
 
-💻 **Software Engineering Student | Aspiring Full Stack Developer | Brazil | Passionate about Full Stack Development**  
+💻 **Software Engineering Student | Brazil **  
 
 Welcome to my profile! I’m dedicated to learning and constantly evolving in the tech field, developing front-end and back-end applications to solve real-world problems.  
 
@@ -9,7 +9,7 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 ## About Me  
 - Software Engineering student (1st year)  
 - Currently learning **HTML, CSS, JavaScript, Java and SQL**  
-- Goal: Become a **Full Stack** developer  
+- Goal: Become a developer  
 - Looking for an internship in Software Development  
 
 ---
