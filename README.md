@@ -8,7 +8,7 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 
 ## About Me  
 - Software Engineering student (1st year)  
-- Currently learning **HTML, CSS, JavaScript, Java and SQL**  
+- Currently learning **HTML, CSS, JavaScript, and Java**  
 - Goal: Become a developer  
 - Looking for an internship in Software Development  
 
@@ -20,15 +20,14 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## What I’m currently learning  
 
-- Fundamentals of **HTML, CSS and JavaScript** for front-end  
-- **Java and SQL** for back-end  
+- Fundamentals of **HTML, CSS, JavaScript and Figma** for front-end  
+- **Java** for back-end  
 - How to integrate **API + database + front-end**  
 - Building projects for my **portfolio**  
 
