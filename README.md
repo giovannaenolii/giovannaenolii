@@ -1,6 +1,6 @@
 # Hello, I'm Giovanna Oliveira  
 
-💻 **Software Engineering Student**  
+💻 **Software Engineering Student | Aspiring Full Stack Developer**  
 Brazil | Passionate about Full Stack Development  
 
 Welcome to my profile! I’m dedicated to learning and constantly evolving in the tech field, developing front-end and back-end applications to solve real-world problems.  
@@ -22,8 +22,7 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
