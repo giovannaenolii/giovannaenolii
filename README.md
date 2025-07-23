@@ -6,7 +6,7 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 
 ---
 
-## 📌About Me  
+## About Me  
 - Software Engineering student (1st year)  
 - Currently learning **HTML, CSS, JavaScript, Java and SQL**  
 - Goal: Become a **Full Stack** developer  
