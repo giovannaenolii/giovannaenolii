@@ -2,15 +2,18 @@
 
 💻 **Software Engineering Student | Brazil**  
 
-Welcome to my profile! I’m dedicated to learning and constantly evolving in the tech field, developing front-end and back-end applications to solve real-world problems.  
+Welcome to my profile!  
+I'm passionate about tech and currently focused on becoming a **Front-End Developer**.  
+I love turning ideas into beautiful and functional interfaces, and I'm always learning, growing, and building real-world projects that make a difference.
 
 ---
 
 ## About Me  
-- Software Engineering student (1st year)  
-- Currently learning **HTML, CSS, JavaScript, and Java**  
-- Goal: Become a developer  
-- Looking for an internship in Software Development  
+- Software Engineering student (1st year)    
+- Currently learning **HTML, CSS, JavaScript, and Figma**  
+- Exploring **Java** and back-end fundamentals  
+- On my way to becoming a **Front-End Developer**  
+- Looking for internship opportunities in tech   
 
 ---
 
@@ -24,12 +27,13 @@ Welcome to my profile! I’m dedicated to learning and constantly evolving in th
 
 ---
 
-## What I’m currently learning  
+## What I’m currently learning    
 
-- Fundamentals of **HTML, CSS, JavaScript and Figma** for front-end  
-- **Java** for back-end  
-- How to integrate **API + database + front-end**  
-- Building projects for my **portfolio**  
+- Responsive interfaces with **HTML, CSS, and JavaScript**  
+- UI design and prototyping with **Figma**  
+- Back-end basics using **Java**  
+- Integrating **APIs** into front-end projects  
+- Building portfolio projects to grow as a **Front-End Developer**
 
 ---
 
