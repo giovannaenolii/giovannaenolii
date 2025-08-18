@@ -3,37 +3,50 @@
 💻 **Software Engineering Student | Brazil**  
 
 Welcome to my profile!  
-I'm passionate about tech and currently focused on becoming a **Front-End Developer**.  
-I love turning ideas into beautiful and functional interfaces, and I'm always learning, growing, and building real-world projects that make a difference.
+I'm passionate about technology and currently focused on becoming a **Back-End Developer**.  
+I love building robust and efficient systems, creating APIs, and learning tools that support scalable applications. I'm always learning, growing, and building real-world projects that make a difference.
 
 ---
 
 ## About Me  
 - Software Engineering student (1st year)    
-- Currently learning **HTML, CSS, JavaScript, and Figma**  
-- Exploring **Java** and back-end fundamentals  
-- On my way to becoming a **Front-End Developer**  
+- Currently learning **Java, Spring Boot, and API REST**  
+- Exploring **AWS and cloud computing**  
+- Practicing software modeling with **Astah UML**  
+- Improving knowledge in **JavaScript** for integration with APIs  
+- On my way to becoming a **Back-End Developer**  
 - Looking for internship opportunities in tech   
 
 ---
 
 ## Technologies & Tools  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Astah](https://img.shields.io/badge/Astah-UML-blue?style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## UI/UX & Prototyping  
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
 ## What I’m currently learning    
 
-- Responsive interfaces with **HTML, CSS, and JavaScript**  
-- UI design and prototyping with **Figma**  
-- Back-end basics using **Java**  
-- Integrating **APIs** into front-end projects  
-- Building portfolio projects to grow as a **Front-End Developer**
+- Back-end development with **Java and Spring Boot**  
+- Building and consuming **RESTful APIs**  
+- Software modeling using **Astah UML**  
+- Fundamentals of **cloud computing** with AWS  
+- Best practices in **Git/GitHub** and version control  
+- JavaScript for **API integration** and project support  
+- UI/UX design fundamentals with **Figma**  
 
 ---
 
