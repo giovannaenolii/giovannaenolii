@@ -11,7 +11,6 @@ I love building robust and efficient systems, creating APIs, and learning tools 
 ## About Me  
 - Software Engineering student (1st year)    
 - Currently learning **Java, Spring Boot, and API REST**  
-- Exploring **AWS and cloud computing**  
 - Practicing software modeling with **Astah UML**  
 - Improving knowledge in **JavaScript** for integration with APIs  
 - On my way to becoming a **Back-End Developer**  
@@ -25,7 +24,6 @@ I love building robust and efficient systems, creating APIs, and learning tools 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Astah](https://img.shields.io/badge/Astah-UML-blue?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
