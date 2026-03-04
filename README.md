@@ -1,6 +1,6 @@
 # Hello, I'm Giovanna Oliveira 
 
-💻 **Software Engineering Student | Frontend Specialist | Brazil** Welcome to my profile!  
+💻 **Software Engineering Student | Frontend | Brazil** Welcome to my profile!  
 I'm a Software Engineering student passionate about creating high-end digital experiences. Currently, I am focused on becoming an expert **Frontend Developer**, building interfaces that combine sophisticated design with robust logic.
 
 My differential? I have a **solid Backend foundation** (Java/Spring Boot), which allows me to understand the full lifecycle of an application and collaborate effectively with complex system architectures.
