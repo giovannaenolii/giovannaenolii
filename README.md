@@ -36,7 +36,6 @@ My differential? I have a **solid Backend foundation** (Java/Spring Boot), which
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -45,7 +44,6 @@ My differential? I have a **solid Backend foundation** (Java/Spring Boot), which
 -  Advanced **React Hooks** and State Management.
 -  **TypeScript** for scalable and type-safe frontend applications.
 -  **Next.js** for SSR and performance optimization.
--  Fundamentals of **Cloud Computing** with AWS.
 -  Advanced **UI/UX Design** principles to bridge the gap between Figma and Code.
 
 ## How to reach me  
