@@ -8,7 +8,7 @@ My differential? I have a **solid Backend foundation** (Java/Spring Boot), which
 ---
 
 ## About Me  
--  Software Engineering student at **Unifil** (2nd year / 3rd Semester)
+-  Software Engineering student (3rd Semester)
 -  **Frontend Focus:** Creating aesthetic, performant, and user-centered interfaces.
 -  **Backend Knowledge:** Solid experience with **Java and Spring Boot** for building REST APIs.
 -  Modeling systems with **Astah UML** and architecting clean solutions.
